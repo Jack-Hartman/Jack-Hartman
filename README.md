@@ -1,5 +1,6 @@
 ### Hi there I'm Jack 👋
 
+- 🏢 I'm currently an Intern @AirbusDefenceAndSpace for a placement year as a part of my University Of Lincoln Computer Science course
 - 🔭 I’m currently working on a Team Software Engineering Project for a university assingment in react and python
 - 🌱 I’m currently learning C++, React & Go 
 - 👯 I’m looking to collaborate on Open Source software
